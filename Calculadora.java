@@ -33,4 +33,8 @@ class Calculadora {
         return numero1*numero2;
     }
 
+    public int dividir(){
+        return numero1/numero2;
+    }
+
 }
