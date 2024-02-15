@@ -37,4 +37,7 @@ class Calculadora {
         return numero1/numero2;
     }
 
+    public int modulo() {
+        return numero1 % numero2;
+    }
 }
