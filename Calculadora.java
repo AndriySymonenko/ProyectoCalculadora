@@ -29,4 +29,8 @@ class Calculadora {
         return numero1-numero2;
     }
 
+    public int multiplicar(){
+        return numero1*numero2;
+    }
+
 }
